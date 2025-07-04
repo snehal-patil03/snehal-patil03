@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Spring Boot, Hibernate, JSP/Servlets, and RESTful APIs.
 - 📫 How to reach me:  
   ✉️ patilsnehal7620@gmail.com
-  🔗 [LinkedIn](https://www.linkedin.com/in/snehal-patil03/)
+  🔗 [LinkedIn](https://www.linkedin.com/in/snehal-patil-b04277261)
   🔗 [GitHub](https://github.com/snehal-patil03)
   🔗 [Portfolio]( https://sites.google.com/view/snehal-portfolio03/home)
 - 😄 Pronouns: She/Her  
